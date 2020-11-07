@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 
 -->
 
-[![Pritom's github stats](https://github-readme-stats.vercel.app/api?username=purkayasta)](https://github.com/anuraghazra/github-readme-stats)
+[![Pritom's github stats](https://github-readme-stats.vercel.app/api?username=purkayasta&count_private=true&show_icons=true&theme=monokai)] <!--(https://github.com/anuraghazra/github-readme-stats) -->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purkayasta&theme=gradiant)]
+
+[![pritom's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=purkaysta&theme=dark)]
