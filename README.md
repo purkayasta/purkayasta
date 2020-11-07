@@ -1,23 +1,58 @@
-### Hi there 👋
+### Hi there 👋✨
+<body style="color:white; background-color:black;">
 
-<!--
-**purkayasta/purkayasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... Svelte
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-
-[![Pritom's github stats](https://github-readme-stats.vercel.app/api?username=purkayasta&count_private=true&show_icons=true&theme=monokai)] <!--(https://github.com/anuraghazra/github-readme-stats) -->
+- 🏢 I’m currently working At Insightin Technology Ltd Bangladesh.
+- 🌱 I’m currently learning .net-core, svelte.
+- 💬 Ask me about dotnet 🐱‍👤.
+- 📫 How to reach me: Twitter - @thepurkayasta.
+- 😄 Pronouns: He/Him.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purkayasta&theme=dark)]
+[![linkedin badge](https://img.shields.io/badge/Pritom_Purkayasta-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/purkayasta/)
+[![facebook badge](https://img.shields.io/badge/@Pritom_Purkayasta-30302f?style=flat&logo=facebook)](https://facebook.com/thepurkayasta)
+[![twitter badge](https://img.shields.io/badge/@Pritom_Purkayasta-30302f?style=flat&logo=twitter)](https://twitter.com/thepurkayasta)
+[![medium badge](https://img.shields.io/badge/Pritom_Purkayasta-30302f?style=flat&logo=medium)](https://medium.com/@pritompurkayasta)
 
-[![pritom's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=purkayasta&theme=dark)]
+![Pritom's github stats](https://github-readme-stats.vercel.app/api?username=purkayasta&count_private=true&show_icons=true&theme=shades-of-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purkayasta&theme=react&langs_count=8&layout=compact)
+
+![pritom's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=purkayasta&theme=cobalt)
+
+
+</body>
+
+
+
+
+
+
+
+<!--Rainbow Effects  
+<style>
+
+body {
+    background: linear-gradient(270deg, #5d269b, #1b17b4, #69118a, #ca3382, #33a7ca);
+    background-size: 1000% 1000%;
+
+    -webkit-animation: AnimationName 32s ease infinite;
+    -moz-animation: AnimationName 32s ease infinite;
+    animation: AnimationName 32s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 68%}
+    50%{background-position:100% 33%}
+    100%{background-position:0% 68%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 68%}
+    50%{background-position:100% 33%}
+    100%{background-position:0% 68%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 68%}
+    50%{background-position:100% 33%}
+    100%{background-position:0% 68%}
+}
+
+</style>-->
