@@ -16,8 +16,6 @@
 ![Pritom's github stats](https://github-readme-stats.vercel.app/api?username=purkayasta&count_private=true&show_icons=true&theme=shades-of-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purkayasta&theme=react&langs_count=8&layout=compact)
 
-![pritom's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=purkayasta&theme=cobalt)
-
 
 </body>
 
@@ -27,7 +25,6 @@
 
 
 
-<!--Rainbow Effects  
 <style>
 
 body {
@@ -55,4 +52,4 @@ body {
     100%{background-position:0% 68%}
 }
 
-</style>-->
+</style>
