@@ -2,7 +2,7 @@
 <body style="color:white; background-color:black;">
 
 - 🏢 I’m currently working At Insightin Technology Ltd Bangladesh.
-- 🌱 I’m currently learning .net-core, svelte.
+- 🌱 I’m currently learning: .net, unit testing, moq, svelte/vuejs.
 - 💬 Ask me about dotnet 🐱‍👤.
 - 📫 How to reach me: Twitter - @thepurkayasta.
 - 😄 Pronouns: He/Him.
@@ -12,6 +12,8 @@
 [![facebook badge](https://img.shields.io/badge/@Pritom_Purkayasta-30302f?style=flat&logo=facebook)](https://facebook.com/thepurkayasta)
 [![twitter badge](https://img.shields.io/badge/@Pritom_Purkayasta-30302f?style=flat&logo=twitter)](https://twitter.com/thepurkayasta)
 [![medium badge](https://img.shields.io/badge/Pritom_Purkayasta-30302f?style=flat&logo=medium)](https://medium.com/@pritompurkayasta)
+[![hashnode badge](https://img.shields.io/badge/Pritom_Purkayasta-30302f?style=flat&logo=hashnode)](https://pritom.hashnode.dev/)
+
 
 ![Pritom's github stats](https://github-readme-stats.vercel.app/api?username=purkayasta&count_private=true&show_icons=true&theme=shades-of-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purkayasta&theme=react&langs_count=8&layout=compact)
