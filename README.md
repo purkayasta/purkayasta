@@ -2,7 +2,7 @@
 <body style="color:white; background-color:black;">
 
 - 🏢 I’m currently working At Insightin Technology Ltd Bangladesh.
-- 🌱 I’m currently learning: .net, unit testing, moq, svelte/vuejs.
+- 🌱 I’m currently learning: .net, reactjs.
 - 💬 Ask me about dotnet 🐱‍👤.
 - 📫 How to reach me: Twitter - @thepurkayasta.
 - 😄 Pronouns: He/Him.
