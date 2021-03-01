@@ -1,23 +1,40 @@
-### Hi there 👋✨
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <body style="color:white; background-color:black;">
 
-- 🏢 I’m currently working At Insightin Technology Ltd Bangladesh.
+- 🏢 I’m currently working At [Insightin Technology Ltd Bangladesh](http://insightintechnology.com/).
 - 🌱 I’m currently learning: .net, reactjs.
 - 💬 Ask me about dotnet 🐱‍👤.
 - 📫 How to reach me: Twitter - @thepurkayasta.
 - 😄 Pronouns: He/Him.
 
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=purkayasta&color=00cf00)
 
-[![linkedin badge](https://img.shields.io/badge/Pritom_Purkayasta-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/purkayasta/)
-[![facebook badge](https://img.shields.io/badge/@Pritom_Purkayasta-30302f?style=flat&logo=facebook)](https://facebook.com/thepurkayasta)
-[![twitter badge](https://img.shields.io/badge/@Pritom_Purkayasta-30302f?style=flat&logo=twitter)](https://twitter.com/thepurkayasta)
-[![medium badge](https://img.shields.io/badge/Pritom_Purkayasta-30302f?style=flat&logo=medium)](https://medium.com/@pritompurkayasta)
-[![hashnode badge](https://img.shields.io/badge/Pritom_Purkayasta-30302f?style=flat&logo=hashnode)](https://pritom.hashnode.dev/)
+ # Reach Me 
 
+[![linkedin badge](https://img.shields.io/badge/Pritom-blueviolet?logo=linkedin&style=social)](https://www.linkedin.com/in/purkayasta/)
+[![pritompurkayasta's DEV Community Profile](https://img.shields.io/badge/DevCommunity-black?logo=dev.to&style=plastic)](https://dev.to/pritom)
+[![medium badge](https://img.shields.io/badge/PritomsMedium-orange?style=flat-square&logo=medium)](https://medium.com/@pritompurkayasta)
+[![hashnode badge](https://img.shields.io/badge/Hashnode-blue?style=plastic&logo=hashnode)](https://pritom.hashnode.dev/)
+
+## Comfortable at
+![dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-logo&logo=.net)
+![js](https://img.shields.io/badge/JS-green?style=for-the-logo&logo=javascript)
+![angularjs](https://img.shields.io/badge/AngularJs-darkred?style=for-the-logo&logo=angularjs)
+![sqlserver](https://img.shields.io/badge/MicrosoftSqlServer-red?style=for-the-logo&logo=microsoft-sql-server)
+![mongodb](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-logo&logo=mongodb)
+
+## Familiar with:
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=888)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
+![Linux](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu&logoColor=FCC624)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![React](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
+![React](https://img.shields.io/badge/-MariaDB-003?&logo=mariadb)
 
 ![Pritom's github stats](https://github-readme-stats.vercel.app/api?username=purkayasta&count_private=true&show_icons=true&theme=shades-of-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purkayasta&theme=react&langs_count=8&layout=compact)
 
+<img align="right" alt="GIF" src="https://github.com/purkayasta/purkayasta/blob/master/code.gif?raw=true" width="500" height="320" />
 
 </body>
 
