@@ -9,12 +9,15 @@
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=purkayasta&color=00cf00)
 
- # Reach Me 
+<img align="right" alt="GIF" src="https://github.com/purkayasta/purkayasta/blob/main/code.gif" width="500" height="320" />
 
+
+ # Reach Me 
 [![linkedin badge](https://img.shields.io/badge/Pritom-blueviolet?logo=linkedin&style=social)](https://www.linkedin.com/in/purkayasta/)
 [![pritompurkayasta's DEV Community Profile](https://img.shields.io/badge/DevCommunity-black?logo=dev.to&style=plastic)](https://dev.to/pritom)
 [![medium badge](https://img.shields.io/badge/PritomsMedium-orange?style=flat-square&logo=medium)](https://medium.com/@pritompurkayasta)
 [![hashnode badge](https://img.shields.io/badge/Hashnode-blue?style=plastic&logo=hashnode)](https://pritom.hashnode.dev/)
+
 
 ## Comfortable at
 ![dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-logo&logo=.net)
@@ -23,7 +26,7 @@
 ![sqlserver](https://img.shields.io/badge/MicrosoftSqlServer-red?style=for-the-logo&logo=microsoft-sql-server)
 ![mongodb](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-logo&logo=mongodb)
 
-## Familiar with:
+## <ins>Familiar with:</ins>
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=888)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
@@ -32,16 +35,7 @@
 ![React](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
 ![React](https://img.shields.io/badge/-MariaDB-003?&logo=mariadb)
 
-![Pritom's github stats](https://github-readme-stats.vercel.app/api?username=purkayasta&count_private=true&show_icons=true&theme=shades-of-purple)
-
-<img align="right" alt="GIF" src="https://github.com/purkayasta/purkayasta/blob/master/code.gif?raw=true" width="500" height="320" />
-
 </body>
-
-
-
-
-
 <!-- Rainbow
 
 <style>
