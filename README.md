@@ -12,7 +12,7 @@
 <img align="right" alt="GIF" src="https://github.com/purkayasta/purkayasta/blob/main/code.gif" width="500" height="320" />
 
 
- # Reach Me 
+ # Follow
 [![linkedin badge](https://img.shields.io/badge/Pritom-blueviolet?logo=linkedin&style=social)](https://www.linkedin.com/in/purkayasta/)
 [![pritompurkayasta's DEV Community Profile](https://img.shields.io/badge/DevCommunity-black?logo=dev.to&style=plastic)](https://dev.to/pritom)
 [![medium badge](https://img.shields.io/badge/PritomsMedium-orange?style=flat-square&logo=medium)](https://medium.com/@pritompurkayasta)
