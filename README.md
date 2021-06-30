@@ -6,6 +6,7 @@
 - 💬 Ask me about dotnet 🐱‍👤.
 - 📫 How to reach me: Twitter - @thepurkayasta.
 - 😄 Pronouns: He/Him.
+- 🖋 Follow me: http://pritompurkayasta.me
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=purkayasta&color=00cf00)
 
