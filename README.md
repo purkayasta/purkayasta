@@ -2,11 +2,11 @@
 <body style="color:white; background-color:black;">
 
 - 🏢 I’m currently working At [Insightin Technology Ltd Bangladesh](http://insightintechnology.com/).
-- 🌱 I’m currently learning: .net, reactjs.
+- 🌱 I’m currently learning: angular.
 - 💬 Ask me about dotnet 🐱‍👤.
 - 📫 How to reach me: Twitter - @thepurkayasta.
 - 😄 Pronouns: He/Him.
-- 🖋 Follow me: http://pritompurkayasta.me
+- 🖋 Follow me: https://pritompurkayasta.me
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=purkayasta&color=00cf00)
 
