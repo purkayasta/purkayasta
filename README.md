@@ -2,7 +2,7 @@
 <body style="color:white; background-color:black;">
 
 - 🏢 I’m currently working At [Insightin Technology Ltd Bangladesh](http://insightintechnology.com/).
-- 🌱 I’m currently learning: angular.
+- 🌱 I’m currently learning: ....
 - 💬 Ask me about dotnet 🐱‍👤.
 - 📫 How to reach me: Twitter - @thepurkayasta.
 - 😄 Pronouns: He/Him.
