@@ -1,8 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <body style="color:white; background-color:black;">
 
-- 🏢 I’m currently working At [Insightin Technology Ltd Bangladesh](http://insightintechnology.com/).
-- 🌱 I’m currently learning: ....
+- 🏢 I’m currently working At ....
+- 🌱 I’m currently learning: Azure Serverless, Web3, DAPP
 - 💬 Ask me about dotnet 🐱‍👤.
 - 📫 How to reach me: Twitter - @thepurkayasta.
 - 😄 Pronouns: He/Him.
