@@ -8,8 +8,6 @@
 - 😄 Pronouns: He/Him.
 - 🖋 Subscribe: https://pritom.hashnode.dev
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=purkayasta&color=00cf00)
-
 <img align="right" alt="GIF" src="https://github.com/purkayasta/purkayasta/blob/main/code.gif" width="500" height="320" />
 
 
