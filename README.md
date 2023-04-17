@@ -65,7 +65,8 @@
 <p align='left'><img src="https://github-readme-streak-stats.herokuapp.com?user=purkayasta&date_format=M%20j%5B%2C%20Y%5D&mode=weeklya" alt="purkayasta" /></p>
 
 <br />
-
+<!-- 
+Styles does not work
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
     
@@ -80,4 +81,4 @@
     .normal {
         font-family: 'Arial';
     }
-</style>
+</style> -->
