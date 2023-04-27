@@ -32,7 +32,7 @@
 <h2 class='cursive'>Ongoing Personal Projects: </h2>
 
 [![UtilityVerse](https://svg.bookmark.style/api?url=https://www.nuget.org/packages/UtilityVerse/&style=horizontal&wrapper=large&bookmark=medium)](https://github.com/purkayasta/TheUtilityVerse/)
-`
+
 [![KrakenRestClient](https://svg.bookmark.style/api?url=https://www.nuget.org/packages/KrakenRestClient/&style=horizontal&wrapper=large&bookmark=medium)](https://github.com/purkayasta/KrakenRestClient/)
 
 <br />
