@@ -33,10 +33,6 @@
 
 [![UtilityVerse](https://svg.bookmark.style/api?url=https://www.nuget.org/packages/UtilityVerse/&style=horizontal&wrapper=large&bookmark=medium)](https://github.com/purkayasta/TheUtilityVerse/)
 `
-
-[![FatRepository](https://svg.bookmark.style/api?url=https://www.nuget.org/packages/FatRepository/&style=horizontal&wrapper=large&bookmark=medium)](https://github.com/purkayasta/FatRepository/)
-
-
 [![KrakenRestClient](https://svg.bookmark.style/api?url=https://www.nuget.org/packages/KrakenRestClient/&style=horizontal&wrapper=large&bookmark=medium)](https://github.com/purkayasta/KrakenRestClient/)
 
 <br />
