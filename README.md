@@ -13,15 +13,9 @@
 
 <br />
 
-<ul>
-    <li>🏢 I’m currently working At <a src='https://www.cefalo.com/en'>Cefalo</a></li>
-    <li>🌱 I’m currently learning: Azure Serverless, Web3, Blockchain</li>
-    <li>💬 Ask me about dotnet 🐱‍👤.</li>
-    <li>📫 Reach me at:
-        <a src='https://www.linkedin.com/in/purkayasta/'>Linkedin</a>
-    </li>
-    <li>😄 Pronouns: He/Him.</li>
-    <li>
-         <a src='https://pritom.hashnode.dev'>🖋 Subscribe To Newsletter </a>
-    </li>
-</ul>
+- 🏢 I’m currently working At [Cefalo](https://www.cefalo.com/en).
+- 😄 Pronouns: He/Him.
+- 🌱 I’m currently on a path of (AZ204)[https://learn.microsoft.com/en-us/credentials/certifications/exams/az-204/]
+- 💬 Ask me about dotnet 🐱‍👤.
+- 📫 Reach me at [Linkedin](https://www.linkedin.com/in/purkayasta/).
+- 🖋 Subscribe To [Newsletter](https://pritom.hashnode.dev).
