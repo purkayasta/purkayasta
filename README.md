@@ -15,7 +15,7 @@
 
 - 🏢 I’m currently working At [Cefalo](https://www.cefalo.com/en).
 - 😄 Pronouns: He/Him.
-- 🌱 I’m currently on a path of [AZ204](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-204/)
+- 🌱 I’m currently on a path in learning and understanding AI.
 - 💬 Ask me about dotnet 🐱‍👤.
 - 📫 Reach me at [Linkedin](https://www.linkedin.com/in/purkayasta/).
 - 🖋 Subscribe To [Newsletter](https://pritom.hashnode.dev).
